@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate Frontend Developer with experience in React development since 2022. Currently, I am focused on building engaging and interactive frontends. If you'd like to get in touch, feel free to reach out anytime.
+I am a passionate Frontend Developer with experience in React development since 2022. Currently, I am focused on building engaging and interactive frontends. In addition to my React expertise, I am expanding my skill set by learning other trending frontend technologies such as VueJS, Angular, NextJS, and NuxtJS. If you'd like to get in touch, feel free to reach out anytime.
 
 ### Tech Stack
 <img src="icons/html.svg" alt="HTML5" width="40" height="40" style="margin-right: 20px;"/> <img src="icons/css.svg" alt="CSS3" width="40" height="40"/> 
